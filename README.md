@@ -7,6 +7,7 @@ Feel free to connect with me here:
 [![LinkedIn](https://img.shields.io/badge/pranjulagrawal-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjulagrawal)
 [![Instagram Badge](https://img.shields.io/badge/-pranjulagrawall-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/pranjulagrawall)
 [![Gmail Badge](https://img.shields.io/badge/-pranjulagrawal9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:pranjulagrawal9@gmail.com)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)
 
 ## ⚡ My Tech Stack
 
@@ -36,5 +37,7 @@ Feel free to connect with me here:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjulagrawal9&hide=TeX&layout=compact&theme=gruvbox)
+
+[![Static Badge](https://img.shields.io/badge/Checkout%20My%20Portfolio%20Here%3A-pranjulagrawal.in-darkred?style=for-the-badge)](https://www.pranjulagrawal.in)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pranjulagrawal9.pranjulagrawal9)
