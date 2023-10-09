@@ -1,6 +1,8 @@
-## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Hi there, I'm Pranjul Agrawal
 
-I am Pranjul Agrawal, a frontend developer. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+A skilled full stack developer with a strong focus on frontend development. My passion for crafting intuitive and visually appealing user interfaces drives my commitment to delivering exceptional user experiences. I have honed my skills in developing robust web applications that seamlessly integrate the frontend with backend systems. 
+
+Feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/pranjulagrawal-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjulagrawal)
 [![Instagram Badge](https://img.shields.io/badge/-pranjulagrawall-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/pranjulagrawall)
