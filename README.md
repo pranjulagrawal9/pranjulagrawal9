@@ -1,6 +1,6 @@
 ## Hi there, I'm Pranjul Agrawal
 
-A skilled full stack developer with a strong focus on frontend development. My passion for crafting intuitive and visually appealing user interfaces drives my commitment to delivering exceptional user experiences. I have honed my skills in developing robust web applications that seamlessly integrate the frontend with backend systems. 
+A full stack developer with a strong focus on frontend development. My passion for crafting intuitive and visually appealing user interfaces drives my commitment to delivering exceptional user experiences. I have honed my skills in developing robust web applications that seamlessly integrate the frontend with backend systems. 
 
 Feel free to connect with me here:
 
